@@ -13,7 +13,7 @@
 
 > *"More into designing things that slap. But hey, I can backend when duty calls."*
 
-- 🎨 [**Portfolio Magic**](https://abhishekportfolio-liard.vercel.app)  
+- 🎨 [**Portfolio Magic**](https://about-abhishek.vercel.app/)  
 - 💼 [**LinkedIn’d Up**](https://www.linkedin.com/in/abhisheks20)  
 - 📬 [**Email Me Chaos**](mailto:abhishekdq2004@gmail.com)
 
