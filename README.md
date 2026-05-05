@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,25:302b63,50:24243e,75:6a11cb,100:2575fc&text=Abhishek&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designer%20%E2%80%A2%20Developer%20%E2%80%A2%20Chaos%20Architect&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,25:302b63,50:24243e,75:6a11cb,100:2575fc&text=Abhishek&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Designer%20%E2%80%A2%20Developer%20%E2%80%A2%20Chaos%20Architect&descAlignY=58&descSize=22"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=F797FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Crafting+interfaces+that+feel+alive+✨;Building+cool+things+with+questionable+sleep+schedules+☕;Part+Artist+🎨+Part+Engineer+⚡+Full+Chaos+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=F797FF&center=true&vCenter=true&width=900&lines=Crafting+interfaces+that+feel+alive+✨;Building+cool+things+with+questionable+sleep+schedules+☕;Turning+ideas+into+cinematic+digital+experiences+🚀;Part+Artist+🎨+Part+Engineer+⚡+Full+Chaos+Mode" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=helloabhishek2004&label=VIBE+VISITORS&color=ff69b4&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
+<img src="https://komarev.com/ghpvc/?username=helloabhishek2004&label=VIBE+VISITORS&color=ec4899&style=for-the-badge"/>
 
 </div>
 
@@ -17,10 +17,10 @@
 
 <div align="center">
 
-# 🌌 Digital Universe
+# 🌌 digital universe
 
 <a href="https://about-abhishek.vercel.app/">
-  <img src="https://img.shields.io/badge/✨_Portfolio-Visit_Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/>
+  <img src="https://img.shields.io/badge/✨_Portfolio-Explore_Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abhisheks20">
@@ -28,16 +28,16 @@
 </a>
 
 <a href="mailto:abhishekdq2004@gmail.com">
-  <img src="https://img.shields.io/badge/📬_Mail-Send_Chaos-e11d48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
+  <img src="https://img.shields.io/badge/📬_Mail-Send_Message-f43f5e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 </div>
 
@@ -49,27 +49,27 @@
 
 ```ts
 const abhishek = {
-  title: "Creative Developer",
-  
+  role: "Creative Developer",
+
   currentFocus: [
-    "Building aesthetic digital experiences",
-    "Creating interfaces with soul",
-    "Cooking full-stack projects",
-    "Overusing smooth animations"
+    "Building immersive digital experiences",
+    "Designing interfaces with personality",
+    "Creating cinematic UI animations",
+    "Cooking full-stack projects"
   ],
 
   personalityTraits: {
     designer: "obsessive",
     developer: "chaotic",
     sleepSchedule: "nonexistent",
-    vibe: "cinematic"
+    aesthetic: "cinematic"
   },
 
   currentlyBuilding: [
     "🧥 Custom streetwear brand",
-    "🤖 AI skincare platform",
+    "🤖 AI-powered skincare platform",
     "🏝️ Hyperlocal job platform",
-    "🎭 Story-driven creative projects"
+    "🎭 Emotion-driven creative projects"
   ],
 
   lifePhilosophy:
@@ -78,6 +78,7 @@ const abhishek = {
 ```
 
 </td>
+
 <td width="45%">
 
 <div align="center">
@@ -92,7 +93,7 @@ const abhishek = {
 
 ---
 
-# 🎨 Tech Arsenal
+# 🎨 tech arsenal
 
 <div align="center">
 
@@ -100,19 +101,25 @@ const abhishek = {
 
 </div>
 
----
+<br>
 
-# 📊 GitHub Analytics
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+</div>
+
+# 📊 github analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=helloabhishek2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=bd93f9&text_color=ffffff&ring_color=ff79c6"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=helloabhishek2004&theme=radical&hide_border=true&background=0D1117&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=helloabhishek2004&theme=radical&hide_border=true&background=0D1117&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6"/>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=helloabhishek2004&custom_title=Abhishek's%20Contribution%20Galaxy&bg_color=0D1117&color=bd93f9&line=ff79c6&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=helloabhishek2004&custom_title=Contribution%20Galaxy&bg_color=0D1117&color=bd93f9&line=ff79c6&point=ffffff&area=true&hide_border=true"/>
 
 <br><br>
 
@@ -122,13 +129,7 @@ const abhishek = {
 
 ---
 
-# 🧠 chaos.logs
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical"/>
-
-</div>
+# 🧠 chaos logs
 
 <details>
 <summary><b>💀 debugging ritual</b></summary>
@@ -138,7 +139,7 @@ while (!success) {
   tryAgain();
   searchStackOverflow();
   questionReality();
-  accidentallyFixIt();
+  accidentallyFixEverything();
 }
 ```
 
@@ -155,10 +156,25 @@ My eyes reject light mode like unsupported software.
 <summary><b>🚀 productivity cycle</b></summary>
 
 Starts with:
+
 > "I'll code for 10 minutes."
 
 Ends with:
+
 > deploying an entire platform at 3AM.
+
+</details>
+
+<details>
+<summary><b>☕ developer fuel</b></summary>
+
+```yaml
+fuel:
+  - chai
+  - late-night playlists
+  - UI inspiration
+  - panic before deadlines
+```
 
 </details>
 
@@ -172,17 +188,7 @@ Ends with:
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=18&pause=3000&color=C084FC&center=true&vCenter=true&width=500&lines=music+fueling+the+late+night+builds+🎧;probably+coding+with+lo-fi+right+now+☕;designing+interfaces+at+2AM+🌙" />
-
-</div>
-
----
-
-# 🐍 contribution snake because yes
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=18&pause=2500&color=C084FC&center=true&vCenter=true&width=600&lines=music+fueling+the+late-night+builds+🎧;probably+animating+something+right+now+✨;coding+with+lo-fi+and+cinematic+thoughts+🌙" />
 
 </div>
 
@@ -192,18 +198,30 @@ Ends with:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
-
-### ✨ building products with emotion, motion & soul
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=helloabhishek2004&theme=radical&no-frame=true&row=1&column=6"/>
+### ✨ building products with motion, emotion & soul
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2575fc,25:6a11cb,50:24243e,75:302b63,100:0f0c29&text=See%20You%20In%20The%20Chaos%20🚀&fontColor=ffffff&fontSize=24&animation=twinkling&fontAlignY=70"/>
+<img src="https://github-profile-trophy.vercel.app/?username=helloabhishek2004&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛸 let's build something beautifully chaotic
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:2575fc,25:6a11cb,50:24243e,75:302b63,100:0f0c29&text=See%20You%20In%20The%20Chaos%20🚀&fontColor=ffffff&fontSize=26&animation=twinkling&fontAlignY=70"/>
 
 </div>
