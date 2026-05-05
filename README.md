@@ -1,78 +1,65 @@
-<h1 align="center">
-  ✨ Abhishek Here — Part Artist, Part Engineer, Full Chaos™ ✨
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F798ED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhishek+%F0%9F%91%8B;Part+Designer%2C+Part+Backend+Brawler+%F0%9F%A7%9C;Creating+Pixel+Magic+%F0%9F%8C%88;Fueled+by+chaos+%26+caffeine+%E2%98%95;Shipping+dreams%2C+one+div+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+# 🌌 ABHISHEK: THE CREATIVE ANOMALY 🌌
+### *Part Artist • Part Engineer • Full Chaos™*
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7CF2FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22)%20%F0%9F%91%8B;Design+that+slaps.+Code+that+works.;Fueled+by+Chaos+%26+Caffeine+%E2%98%95;Shipping+dreams%2C+one+div+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
-### 🪩 Vibing Around the Web
+| 🎨 [Portfolio Magic](your-link) | 💼 [LinkedIn'd Up](your-link) | 📬 [Email the Chaos](mailto:your-email) |
+| :---: | :---: | :---: |
 
-> *"More into designing things that slap. But hey, I can backend when duty calls."*
+</div>
 
-- 🎨 [**Portfolio Magic**](https://about-abhishek.vercel.app/)  
-- 💼 [**LinkedIn’d Up**](https://www.linkedin.com/in/abhisheks20)  
-- 📬 [**Email Me Chaos**](mailto:abhishekdq2004@gmail.com)
+## 🪩 THE VIBE CHECK
+> "I build things that look clean and backends that fight back. Design is the soul; code is the muscle."
 
----
-
-### ⚡ Powered by caffeine, pixels & mild existential dread
-
-- 🧥 Running a custom clothing brand that *drips* style  
-- 🤖 Built an AI-powered skincare app before fixing my own face  
-- 🎭 Wrote a romantic drama in Kerala style — yes, with *actual feelings*  
-- 🏝️ Cooking up a job platform for my hometown because OLX ain’t local enough
+### 🛠️ CURRENTLY COOKING...
+- 🧥 **Drip Engineering:** Scaling a custom clothing brand with pure style.
+- 🤖 **Skin-Deep AI:** Perfecting an AI skincare app (pixels > pores).
+- 🎭 **Malayalam Melodrama:** Wrote a romantic drama script with peak Kerala feels.
+- 🏝️ **Hyper-Local:** Building a job platform for the hometown crew because we need better than OLX.
 
 ---
 
-### 🧪 GitHub Stats: May Contain Genius ⚠️
+## 🧪 LABORATORY STATS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helloabhishek2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloabhishek2004&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" height="180px" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloabhishek2004&show_icons=true&theme=tokyonight" alt="Abhishek's GitHub Stats" />
-</p>
+<br />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=helloabhishek2004&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helloabhishek2004&bg_color=1a1b27&color=FAD000&line=F798ED&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helloabhishek2004&bg_color=0D1117&color=7CF2FF&line=F798ED&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
 
 ---
 
-### 🥚 Easter Eggs: Hover & Discover
+## 🥚 THE ARCHIVES (Click to Reveal)
 
 <details>
-<summary>💀 Fun Fact #1: My code works... eventually</summary>
-I once fixed a bug by turning off my laptop and spiritually cleansing my soul with chai.
+<summary><b>💀 Spiritual Debugging</b></summary>
+I once fixed a production bug by closing my IDE and spiritually cleansing my soul with a hot chai. It worked. Don't ask how.
 </details>
 
 <details>
-<summary>🌀 Fun Fact #2: I use dark mode even in dreams</summary>
-Light mode? Never heard of her.
+<summary><b>🌀 Dark Mode Disciple</b></summary>
+If your app doesn't have a dark mode, we can't be friends. I use dark mode even in my dreams.
 </details>
 
 <details>
-<summary>👽 Fun Fact #3: I'm 99% designer, 1% sane</summary>
-The 1% is mostly used to explain my code to myself.
+<summary><b>👽 The 1% Rule</b></summary>
+I'm 99% designer and 1% sane. That 1% is exclusively reserved for explaining my logic to myself at 3 AM.
 </details>
-
----
-
-### 💫 Vibe Check (with Chaos Loader™)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="coding chaos" />
-</p>
-
-<p align="center"><i>"If it looks good and runs good, it's good." — Me, probably</i></p>
 
 ---
 
 <div align="center">
-  🛸 Let’s build some vibe-shifting, chaos-coded, beautifully broken things.
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" style="border-radius: 15px;" />
+  <br />
+  <p><i>"If it looks good and runs good, it's golden."</i></p>
+  
+  **🛸 Let’s build some vibe-shifting, chaos-coded, beautifully broken things.**
 </div>
