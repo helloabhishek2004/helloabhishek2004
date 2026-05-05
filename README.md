@@ -1,147 +1,205 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d0a4e&height=200&section=header&text=Abhishek&fontSize=80&fontColor=F798ED&fontAlignY=40&desc=Part%20Artist%20%E2%80%A2%20Part%20Engineer%20%E2%80%A2%20Full%20Chaos%E2%84%A2&descSize=18&descAlignY=65&descColor=c084fc&animation=twinkling" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F798ED&center=true&vCenter=true&width=650&height=60&lines=Hey%2C+I'm+Abhishek+%F0%9F%91%8B;Part+Designer%2C+Part+Backend+Brawler+%F0%9F%A7%9C;Creating+Pixel+Magic+%F0%9F%8C%88;Fueled+by+chaos+%26+caffeine+%E2%98%95;Shipping+dreams%2C+one+div+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,25:302b63,50:24243e,75:6a11cb,100:2575fc&text=Abhishek&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Designer%20%E2%80%A2%20Developer%20%E2%80%A2%20Chaos%20Architect&descAlignY=60&descSize=22"/>
 
 <br>
 
-<!-- SOCIAL LINKS -->
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Magic-F798ED?style=for-the-badge&labelColor=1a0a2e&color=F798ED)](https://yourportfolio.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-c084fc?style=for-the-badge&labelColor=1a0a2e&color=c084fc)](https://linkedin.com/in/yourhandle)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/📬_Email-Chaos_Mail-a855f7?style=for-the-badge&labelColor=1a0a2e&color=a855f7)](mailto:youremail@gmail.com)
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=F797FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Crafting+interfaces+that+feel+alive+✨;Building+cool+things+with+questionable+sleep+schedules+☕;Part+Artist+🎨+Part+Engineer+⚡+Full+Chaos+🚀" />
 
 <br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=helloabhishek2004&label=VIBE+VISITORS&color=ff69b4&style=for-the-badge"/>
+
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp; About The Chaos
+# 🌌 Digital Universe
 
-```typescript
+<a href="https://about-abhishek.vercel.app/">
+  <img src="https://img.shields.io/badge/✨_Portfolio-Visit_Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhisheks20">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
+</a>
+
+<a href="mailto:abhishekdq2004@gmail.com">
+  <img src="https://img.shields.io/badge/📬_Mail-Send_Chaos-e11d48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg"/>
+
+</div>
+
+# ⚡ about.exe
+
+<table>
+<tr>
+<td width="55%">
+
+```ts
 const abhishek = {
-  pronouns     : "he/him",
-  currentVibe  : "Designing things that slap 🎨",
-  backend      : "When duty calls... I show up (reluctantly)",
-  superpower   : "Turning caffeine into pixel magic",
-  sideQuests   : [
-    "👕 Running a custom clothing brand that drips",
-    "🤖 Built an AI skincare app before fixing my own face",
-    "🎭 Wrote a romantic Kerala drama with actual feelings",
-    "🏝️  Cooking up a hyperlocal job platform",
+  title: "Creative Developer",
+  
+  currentFocus: [
+    "Building aesthetic digital experiences",
+    "Creating interfaces with soul",
+    "Cooking full-stack projects",
+    "Overusing smooth animations"
   ],
-  fuelSource   : ["☕ Chai", "🌙 Dark Mode", "🎧 Lo-fi beats", "😤 Mild existential dread"],
-  status       : "Shipping dreams, one div at a time 🚀"
+
+  personalityTraits: {
+    designer: "obsessive",
+    developer: "chaotic",
+    sleepSchedule: "nonexistent",
+    vibe: "cinematic"
+  },
+
+  currentlyBuilding: [
+    "🧥 Custom streetwear brand",
+    "🤖 AI skincare platform",
+    "🏝️ Hyperlocal job platform",
+    "🎭 Story-driven creative projects"
+  ],
+
+  lifePhilosophy:
+    "If it feels boring, redesign it."
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; GitHub Stats — May Contain Genius ⚠️
+</td>
+<td width="45%">
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=helloabhishek2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=F798ED&icon_color=c084fc&text_color=ffffff&ring_color=F798ED" />
-<img width="49%" src="https://streak-stats.demolab.com?user=helloabhishek2004&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=F798ED&ring=c084fc&fire=F798ED&currStreakLabel=F798ED&sideLabels=c084fc&dates=ffffff" />
+<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
-<br>
+</td>
+</tr>
+</table>
+
+---
+
+# 🎨 Tech Arsenal
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=helloabhishek2004&bg_color=0d0d0d&color=c084fc&line=F798ED&point=ffffff&area=true&area_color=F798ED&hide_border=true&title_color=F798ED" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,tailwind,vite,supabase,firebase,mongodb,figma,git,github,vscode&theme=dark"/>
 
 </div>
 
-<br>
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloabhishek2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=F798ED&text_color=ffffff&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=helloabhishek2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff79c6&icon_color=bd93f9&text_color=ffffff&ring_color=ff79c6"/>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🥚 Easter Eggs — Hover & Discover
-
-<details>
-<summary><b>💀 Fun Fact #1 — My code works... eventually</b></summary>
-<br>
-<blockquote>
-I once fixed a bug by turning off my laptop and spiritually cleansing my soul with chai. It worked. No further questions.
-</blockquote>
-</details>
-
-<details>
-<summary><b>🌀 Fun Fact #2 — I use dark mode even in dreams</b></summary>
-<br>
-<blockquote>
-Light mode? Never heard of her. My retinas have filed a restraining order.
-</blockquote>
-</details>
-
-<details>
-<summary><b>👽 Fun Fact #3 — I'm 99% designer, 1% sane</b></summary>
-<br>
-<blockquote>
-The 1% is mostly used to explain my code to myself. The rest is vibes, prayers, and Stack Overflow.
-</blockquote>
-</details>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💫 Vibe Check — Chaos Mode Activated
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="280" alt="coding chaos" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=helloabhishek2004&theme=radical&hide_border=true&background=0D1117&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6"/>
 
 <br><br>
 
-> *"If it looks good and runs good, it's good."*
-> — **Me, probably** 🤷
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- PROFILE VIEWS & FOOTER -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=helloabhishek2004&color=F798ED&style=for-the-badge&label=PROFILE+VIEWS)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=helloabhishek2004&custom_title=Abhishek's%20Contribution%20Galaxy&bg_color=0D1117&color=bd93f9&line=ff79c6&point=ffffff&area=true&hide_border=true"/>
 
 <br><br>
 
-**🛸 Let's build some vibe-shifting, chaos-coded, beautifully broken things.**
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloabhishek2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff79c6&text_color=ffffff"/>
+
+</div>
+
+---
+
+# 🧠 chaos.logs
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical"/>
+
+</div>
+
+<details>
+<summary><b>💀 debugging ritual</b></summary>
+
+```js
+while (!success) {
+  tryAgain();
+  searchStackOverflow();
+  questionReality();
+  accidentallyFixIt();
+}
+```
+
+</details>
+
+<details>
+<summary><b>🌙 dark mode addiction</b></summary>
+
+My eyes reject light mode like unsupported software.
+
+</details>
+
+<details>
+<summary><b>🚀 productivity cycle</b></summary>
+
+Starts with:
+> "I'll code for 10 minutes."
+
+Ends with:
+> deploying an entire platform at 3AM.
+
+</details>
+
+---
+
+# 🎵 currently surviving with
+
+<div align="center">
+
+<img width="70%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w4v4rj7g3f2q5w2y5g6s2m4yze&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=ff79c6&bar_color_cover=false"/>
+
+</div>
+
+---
+
+# 🐍 contribution snake because yes
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌈 aesthetic zone
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
+
+### ✨ building products with emotion, motion & soul
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a4e,50:1a0a2e,100:0d0d0d&height=120&section=footer&text=See%20you%20in%20the%20chaos%20%F0%9F%9A%80&fontSize=20&fontColor=F798ED&fontAlignY=65&animation=twinkling" />
+<img src="https://github-profile-trophy.vercel.app/?username=helloabhishek2004&theme=radical&no-frame=true&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2575fc,25:6a11cb,50:24243e,75:302b63,100:0f0c29&text=See%20You%20In%20The%20Chaos%20🚀&fontColor=ffffff&fontSize=24&animation=twinkling&fontAlignY=70"/>
 
 </div>
