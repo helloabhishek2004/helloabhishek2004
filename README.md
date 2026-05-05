@@ -164,11 +164,15 @@ Ends with:
 
 ---
 
-# 🎵 currently surviving with
+# 🎧 currently transmitting vibes
 
 <div align="center">
 
-<img width="70%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w4v4rj7g3f2q5w2y5g6s2m4yze&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=ff79c6&bar_color_cover=false"/>
+<img width="85%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31323ubzlg74nbn4bxncnkm7pepi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=bd93f9&bar_color_cover=false"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=18&pause=3000&color=C084FC&center=true&vCenter=true&width=500&lines=music+fueling+the+late+night+builds+🎧;probably+coding+with+lo-fi+right+now+☕;designing+interfaces+at+2AM+🌙" />
 
 </div>
 
