@@ -35,7 +35,7 @@
 
 # 🌌 digital universe
 
-<a href="https://about-abhishek.vercel.app/">
+<a href="https://aboutabhishek.runs-on.dev/">
   <img src="https://img.shields.io/badge/✨_Portfolio-Explore_Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/>
 </a>
 
