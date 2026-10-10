@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Privacy: raw and prepped images
+source-photo.*
+source-prepped.*
+raw/
+temp/
+preview.html
+*.jpg
+*.jpeg
+*.png
