@@ -8,7 +8,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
 <img src="https://komarev.com/ghpvc/?username=helloabhishek2004&label=VIBE+VISITORS&color=ec4899&style=for-the-badge"/>
 
 </div>
@@ -43,7 +42,7 @@
   <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
 </a>
 
-<a href="mailto:abhishekdq2004@gmail.com">
+<a href="mailto:helloabhisheks25@gmail.com">
   <img src="https://img.shields.io/badge/📬_Mail-Send_Message-f43f5e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
 </a>
 
@@ -113,7 +112,9 @@ const abhishek = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,tailwind,vite,supabase,firebase,mongodb,figma,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,vite,supabase,firebase,mongodb,figma,git,github&theme=dark"/>
+<img src="./assets/icons/antigravity.svg" width="48" height="48" alt="Google Antigravity"/>
+<img src="./assets/icons/codex.svg" width="48" height="48" alt="OpenAI Codex"/>
 
 </div>
 
@@ -223,10 +224,6 @@ fuel:
 <br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=helloabhishek2004&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
