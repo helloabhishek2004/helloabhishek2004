@@ -17,9 +17,25 @@
 
 <div align="center">
 
+<h3><code>helloabhishek2004@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
+<br><br>
+
+<h3><code>helloabhishek2004@github ~ $ whoami</code></h3>
+
+<img src="./portrait-ascii.svg" width="440" alt="ASCII portrait" />
+
+</div>
+
+---
+
+<div align="center">
+
 # 🌌 digital universe
 
-<a href="https://about-abhishek.vercel.app/">
+<a href="https://aboutabhishek.runs-on.dev/">
   <img src="https://img.shields.io/badge/✨_Portfolio-Explore_Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/>
 </a>
 
